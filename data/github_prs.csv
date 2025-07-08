@@ -1,0 +1,51 @@
+number,title,created_at,closed_at,duration_hours
+254578,Ensure EOL of cell documents is as expected,2025-07-08T06:20:39Z,
+254564,first pass checkpoints inline in chat,2025-07-08T03:59:36Z,
+254560,Adding optional TS native compile check stage,2025-07-08T02:36:59Z,
+254550,Users/softnado/mcp auth inspect,2025-07-08T01:17:37Z,
+254544,Revert service-worker js -> ts rewrite,2025-07-07T23:53:58Z,
+254540,Pick up latest TS for building VSCode,2025-07-07T23:07:37Z,
+254539,Fix mode switching back to ask mode when extension is slow to load,2025-07-07T23:00:24Z,
+254538,Fix mode switching back to ask mode when extension is slow to load,2025-07-07T22:57:36Z,
+254536,fix #248581,2025-07-07T22:37:02Z,2025-07-08T00:33:13Z
+254533,mcp: include correct scope when creating server install events,2025-07-07T22:16:14Z,
+254532,mcp: include correct scope when creating server install events,2025-07-07T22:15:47Z,2025-07-07T22:32:48Z
+254531,[release branch] add non-markdown description back for chat.tools.autoApprove,2025-07-07T22:12:22Z,2025-07-07T22:26:28Z
+254530,"Add ""Show chats"" to chat editor menu",2025-07-07T22:08:34Z,2025-07-07T22:21:35Z
+254529,add non-markdown description back for `chat.tools.autoApprove`,2025-07-07T22:02:17Z,2025-07-07T22:13:11Z
+254525,Live upadtes to Notebook Cell EOL in troubleshooting,2025-07-07T21:47:49Z,2025-07-07T22:31:00Z
+254522,mcp: fix only keeping 1 MCP server per config file,2025-07-07T21:36:01Z,
+254521,mcp: fix only keeping 1 MCP server per config file,2025-07-07T21:34:57Z,2025-07-07T21:52:32Z
+254514,revised new welcome experience intro slide to use correct color token…,2025-07-07T20:31:23Z,2025-07-07T21:41:25Z
+254512,Fix chat mode reset to Agent mode when retrying requests,2025-07-07T19:59:28Z,2025-07-07T22:14:29Z
+254509,fix #253023,2025-07-07T19:48:42Z,
+254506,layout - reduce flicker for startup editors,2025-07-07T18:58:26Z,
+254504,Fix PowerShell terminal link detection for paths with spaces,2025-07-07T18:49:39Z,
+254500,Refactor ChatMCP policy to use centralized registry,2025-07-07T18:28:58Z,2025-07-07T19:40:47Z
+254499,Refactor ChatMCP policy key to follow layering and import rules,2025-07-07T18:28:03Z,2025-07-07T19:40:40Z
+254496,Engineering - more descriptive cache names,2025-07-07T18:08:20Z,2025-07-07T18:23:12Z
+254494,Fix tiles wrapping OOTB in chat welcome view (#254209),2025-07-07T18:04:44Z,2025-07-07T20:41:15Z
+254492,chat: fix showing notebook cells is running out of panel chat,2025-07-07T17:51:42Z,2025-07-07T18:25:52Z
+254482,fix terminal suggest bug related to aliases,2025-07-07T16:53:36Z,
+254477,add `terminal` to `taskExecution`,2025-07-07T16:27:15Z,
+254476,NES in collapsed code fix,2025-07-07T16:16:37Z,
+254472,Correct capitalization of 'JetBrains' and 'ReSharper' in settings UI,2025-07-07T15:46:42Z,
+254464,test failure again,2025-07-07T15:33:42Z,2025-07-07T18:29:34Z
+254461,autoApprove warning,2025-07-07T15:28:41Z,2025-07-07T20:05:18Z
+254460,ci - improve log message on failure,2025-07-07T15:27:53Z,2025-07-07T15:40:56Z
+254449,Add notebook as an inline completion editor type,2025-07-07T14:29:00Z,2025-07-07T14:41:17Z
+254448,get value of ctx keys,2025-07-07T14:22:07Z,2025-07-07T14:36:02Z
+254445,Fixes ARC tracking,2025-07-07T14:11:45Z,
+254444,add `onTerminal` activation event,2025-07-07T14:11:38Z,
+254443,Fixes https://github.com/microsoft/vscode-internalbacklog/issues/5602,2025-07-07T14:07:20Z,2025-07-07T14:07:39Z
+254441,simulate failures,2025-07-07T13:53:07Z,2025-07-07T15:31:48Z
+254425,autoApprove warning,2025-07-07T11:13:17Z,2025-07-07T15:16:27Z
+254423,Fixes https://github.com/microsoft/vscode-internalbacklog/issues/5608,2025-07-07T11:06:08Z,2025-07-07T13:53:27Z
+254421,Fixes https://github.com/microsoft/vscode/issues/254419,2025-07-07T10:44:33Z,2025-07-07T13:17:40Z
+254420,Fixes https://github.com/microsoft/vscode/issues/254419,2025-07-07T10:43:15Z,2025-07-07T10:43:41Z
+254417,default to marketplace latest api for all extension name requests,2025-07-07T10:25:05Z,2025-07-07T10:48:12Z
+254415,Update notebook troubleshooting tool to display EOL,2025-07-07T10:17:45Z,2025-07-07T10:48:47Z
+254414,Engineering - re-enable the ACES pipelines,2025-07-07T10:11:45Z,
+254413,Fix missing workspace.onDidChangeTextDocument events for notebook cell EOL changes,2025-07-07T10:10:19Z,
+254412,"fix(gettingStarted): remove duplicated ""can be"" in hover description",2025-07-07T09:59:58Z,
+254409,Fix comment thread scrollbar overlaying text content,2025-07-07T09:17:29Z,
